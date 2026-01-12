@@ -167,11 +167,8 @@
 
 | 🏅 比赛名称 | 📅 年份 | 🎖️ 成绩 |
 |------------|--------|---------|
-| RoboMaster 全国大赛 | 2024 | 🥇 全国一等奖 |
-| 中国机器人大赛 | 2023 | 🥈 全国二等奖 |
-| RoboCup 中国赛 | 2023 | 🥉 区域三等奖 |
-| 全国大学生智能车竞赛 | 2022 | 🥇 省级一等奖 |
-
+| RoboMaster | 2023 | 🥇全国三等奖 |
+| RoboMaster | 2024 | 🥇全国二等奖 |
 </div>
 
 ---
@@ -229,11 +226,11 @@
 
 | 平台 | 链接 |
 |------|------|
-| 📧 邮箱 | xmurcsvision@example.com |
-| 📺 Bilibili | [XMU RCS Vision](https://space.bilibili.com/YOUR_BILIBILI_ID) |
-| 💬 QQ群 | 123456789 |
+| 📧 邮箱 | public@xmurcs.cn |
+| 📺 Bilibili | [XMU RCS Vision](https://space.bilibili.com/1008703584) |
+| 💬 QQ群 | 963918687 |
+| 🌐 技术论坛 | https://www.rcstech.org |
 | 🌐 官网 | https://xmurcsvision.github.io |
-
 </div>
 
 ### 🚀 快速开始 | Quick Start
@@ -261,7 +258,7 @@ git push origin feature/your-feature-name
 ## 📚 学习资源 | Learning Resources
 
 - 📖 [官方文档](https://github.com/XMURCSVision/docs) - 完整的技术文档
-- 🎥 [视频教程](https://space.bilibili.com/YOUR_BILIBILI_ID) - Bilibili 视频教程
+- 🎥 [视频教程](https://space.bilibili.com/1008703584) - Bilibili 视频教程
 - 💡 [常见问题](https://github.com/XMURCSVision/docs/wiki/FAQ) - FAQ 解答
 - 🔧 [开发环境配置](https://github.com/XMURCSVision/docs/wiki/Setup) - 环境搭建指南
 
