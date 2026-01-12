@@ -1,3 +1,13 @@
+<!-- 
+  ⚠️ 使用说明 | Instructions:
+  请根据实际情况更新以下内容 | Please update the following:
+  1. Bilibili ID: 将 'YOUR_BILIBILI_ID' 替换为实际的 B站 ID
+  2. Email: 将 'xmurcsvision@example.com' 替换为实际的组织邮箱
+  3. QQ群号: 将 '123456789' 替换为实际的 QQ 群号
+  4. 项目链接: 根据实际的仓库名称更新项目链接
+  5. 官网链接: 更新为实际的官网地址
+-->
+
 <div align="center">
 
 <!-- Banner Section -->

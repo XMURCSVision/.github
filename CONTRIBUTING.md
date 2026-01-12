@@ -1,3 +1,8 @@
+<!-- 
+  ⚠️ 使用说明 | Instructions:
+  请根据实际情况更新联系方式和链接 | Please update contact info and links as needed
+-->
+
 # 贡献指南 | Contributing Guide
 
 感谢你有兴趣为 XMU RCS Vision 做出贡献！本指南将帮助你快速上手，了解如何为我们的项目做出贡献。
