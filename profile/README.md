@@ -1,19 +1,13 @@
-<!-- 
-  ⚠️ 使用说明 | Instructions:
-  请根据实际情况更新以下内容 | Please update the following:
-  1. 项目链接: 根据实际的仓库名称更新项目链接
-  2. 官网链接: 更新为实际的官网地址
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=300&section=header&text=XMU%20RCS%20Vision&fontSize=90&fontAlignY=35&desc=厦门大学机器人队%20·%20算法组&descAlignY=55&descSize=25&animation=fadeIn" alt="Banner">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=300&section=header&text=XMU%20RCS%20Vision&fontSize=90&fontAlignY=35&desc=厦门大学机器人队%20·%20视觉组&descAlignY=55&descSize=25&animation=fadeIn" alt="Banner">
 <img src="./rcs.png" alt="Logo">
 <h3>🎯 用视觉赋予机器人智慧，用创新推动技术进步</h3>
 <p><i>Empowering Robots with Vision, Driving Innovation with Technology</i></p>
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Stars&query=total_stars&url=https://api.github-star-counter.workers.dev/user/XMURCSVision&style=for-the-badge&logo=github" alt="Total Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Stars&query=stars&url=https://api.github-star-counter.workers.dev/user/XMURCSVision&style=for-the-badge&logo=github" alt="Total Stars">
   <img src="https://img.shields.io/badge/Active%20Projects-10+-blue?style=for-the-badge&logo=github" alt="Active Projects">
-  <img src="https://img.shields.io/badge/Team%20Members-20+-orange?style=for-the-badge&logo=google-meet" alt="Team Members">
-  <img src="https://img.shields.io/badge/Since-2020-red?style=for-the-badge&logo=calendar" alt="Since 2020">
+  <img src="https://img.shields.io/badge/Team%20Members-10+-orange?style=for-the-badge&logo=google-meet" alt="Team Members">
+  <img src="https://img.shields.io/badge/Since-2007-red?style=for-the-badge&logo=calendar" alt="Since 2007">
 </p>
 <p>
   <a href="https://space.bilibili.com/1008703584">
@@ -26,27 +20,18 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
+</div>
 ---
 
 ## 📊 组织统计 | Organization Statistics
 
 <div align="center">
-
-<!-- GitHub Metrics -->
-<img src="https://metrics.lecoq.io/XMURCSVision?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XMURCSVision&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%">
-
-<!-- Language Distribution -->
-<img src="https://metrics.lecoq.io/XMURCSVision?template=classic&base=&config.timezone=Asia%2FShanghai&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14" alt="Top Languages" width="49%">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XMURCSVision&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="98%">
-
+<img src="./stats.svg" alt="stats">
 </div>
 
 ---
 
+<!--
 ## 🚀 核心项目 | Featured Projects
 
 ### 🤖 机器人视觉框架 | Vision Frameworks
@@ -114,7 +99,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ### 📚 文档与教程 | Documentation & Tutorials
 
 <table>
@@ -168,15 +153,12 @@
 ### 编程语言 | Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 框架与库 | Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 工具与平台 | Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -200,13 +182,6 @@
 - 📋 代码规范与最佳实践
 - 🔄 Pull Request 流程
 - 🐛 如何报告问题
-
-### 🎓 适合人群 | Who Should Join
-
-- 💡 对计算机视觉感兴趣的同学
-- 🤖 希望参加机器人比赛的同学
-- 🎯 想要提升编程能力的同学
-- 🌟 热爱技术、乐于分享的同学
 
 ### 📞 联系我们 | Contact Us
 
