@@ -16,6 +16,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           template: classic
           config_timezone: Asia/Shanghai
+          config_padding: 0, 10%
           filename: profile/stats.svg
                     
           plugin_languages: yes
