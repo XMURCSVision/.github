@@ -27,9 +27,10 @@
 
 <div align="center">
 <img src="./img/base.svg" alt="Metrics">
+</div>
+<div align="center">
 <img src="./img/languages.svg" alt="Metrics">
 </div>
-
 ---
 
 <!--
