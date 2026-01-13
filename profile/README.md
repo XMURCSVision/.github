@@ -231,11 +231,6 @@ git push origin feature/your-feature-name
 
 感谢所有为 XMU RCS Vision 做出贡献的成员和支持者！
 
-<div align="center">
-
-<a href="https://github.com/XMURCSVision/contributors">
-  <img src="https://opencollective.com/XMURCSVision/contributors.svg?width=890&button=false" alt="Contributors">
-</a>
 
 ### ⭐ 如果你喜欢我们的项目，请给我们一个 Star！
 
