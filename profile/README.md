@@ -26,7 +26,7 @@
 ## 📊 组织统计 | Organization Statistics
 
 <div align="center">
-<img src="./stats.svg" alt="stats">
+<img src="./stats.svg" alt="Metrics" width="100%">
 </div>
 
 ---
@@ -234,7 +234,7 @@ git push origin feature/your-feature-name
 <div align="center">
 
 <a href="https://github.com/XMURCSVision/contributors">
-  <img src="https://contrib.rocks/image?repo=XMURCSVision/.github" alt="Contributors">
+  <img src="https://opencollective.com/XMURCSVision/contributors.svg?width=890&button=false" alt="Contributors">
 </a>
 
 ### ⭐ 如果你喜欢我们的项目，请给我们一个 Star！
