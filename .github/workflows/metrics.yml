@@ -19,4 +19,5 @@ jobs:
           plugin_streak: yes
           plugin_streak_days: true 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year 
+          plugin_isocalendar_duration: full-year
+          debug: yes
