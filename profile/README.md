@@ -26,7 +26,8 @@
 ## 📊 组织统计 | Organization Statistics
 
 <div align="center">
-<img src="./stats.svg" alt="Metrics">
+<img src="./base.svg" alt="Metrics">
+<img src="./languages.svg" alt="Metrics">
 </div>
 
 ---
