@@ -21,20 +21,14 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
-          
-          plugin_streak: yes
-          plugin_streak_days: true 
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_ext: yes
 
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
           
           plugin_achievements: yes
-          plugin_achievements_threshold: D       
+          plugin_achievements_threshold: X    
           plugin_achievements_limit: 10          
           plugin_achievements_display: compact   
           
