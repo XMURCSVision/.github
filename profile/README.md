@@ -1,44 +1,31 @@
 <!-- 
   ⚠️ 使用说明 | Instructions:
   请根据实际情况更新以下内容 | Please update the following:
-  1. Bilibili ID: 将 'YOUR_BILIBILI_ID' 替换为实际的 B站 ID
-  2. Email: 将 'xmurcsvision@example.com' 替换为实际的组织邮箱
-  3. QQ群号: 将 '123456789' 替换为实际的 QQ 群号
-  4. 项目链接: 根据实际的仓库名称更新项目链接
-  5. 官网链接: 更新为实际的官网地址
+  1. 项目链接: 根据实际的仓库名称更新项目链接
+  2. 官网链接: 更新为实际的官网地址
 -->
 
-<div align="center">
-
-<!-- Banner Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=300&section=header&text=XMU%20RCS%20Vision&fontSize=90&fontAlignY=35&desc=厦门大学机器人队%20·%20计算机视觉团队&descAlignY=55&descSize=25&animation=fadeIn" alt="Banner">
-
-<!-- Slogan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=300&section=header&text=XMU%20RCS%20Vision&fontSize=90&fontAlignY=35&desc=厦门大学机器人队%20·%20算法组&descAlignY=55&descSize=25&animation=fadeIn" alt="Banner">
+<img src="./rcs.png" alt="Logo">
 <h3>🎯 用视觉赋予机器人智慧，用创新推动技术进步</h3>
 <p><i>Empowering Robots with Vision, Driving Innovation with Technology</i></p>
-
-<!-- Dynamic Status Badges -->
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Stars&query=total_stars&url=https://api.github-star-counter.workers.dev/user/XMURCSVision&style=for-the-badge&logo=github" alt="Total Stars">
   <img src="https://img.shields.io/badge/Active%20Projects-10+-blue?style=for-the-badge&logo=github" alt="Active Projects">
   <img src="https://img.shields.io/badge/Team%20Members-20+-orange?style=for-the-badge&logo=google-meet" alt="Team Members">
   <img src="https://img.shields.io/badge/Since-2020-red?style=for-the-badge&logo=calendar" alt="Since 2020">
 </p>
-
-<!-- Social Links -->
 <p>
-  <a href="https://space.bilibili.com/YOUR_BILIBILI_ID">
+  <a href="https://space.bilibili.com/1008703584">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
   <a href="https://github.com/XMURCSVision">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:xmurcsvision@example.com">
+  <a href="mailto:public@xmurcs.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -47,11 +34,11 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=XMURCSVision&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-stats-two-eta-40.vercel.app/api?username=XMURCSVision&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="49%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XMURCSVision&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%">
 
 <!-- Language Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMURCSVision&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%">
+<img src="https://github-readme-stats-two-eta-40.vercel.app/api/top-langs/?username=XMURCSVision&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%">
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XMURCSVision&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="98%">
@@ -167,8 +154,9 @@
 
 | 🏅 比赛名称 | 📅 年份 | 🎖️ 成绩 |
 |------------|--------|---------|
-| RoboMaster | 2023 | 🥇全国三等奖 |
-| RoboMaster | 2024 | 🥇全国二等奖 |
+| RoboMaster University Championship (RMUC) | 2023 | 🥇全国三等奖 |
+| RoboMaster University Championship (RMUC) | 2024 | 🥇全国二等奖 |
+| RoboMaster University Championship (RMUC) | 2024 | 🥇全国二等奖 |
 </div>
 
 ---
