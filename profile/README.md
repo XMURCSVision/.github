@@ -33,12 +33,12 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats-two-eta-40.vercel.app/api?username=XMURCSVision&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="49%">
+<!-- GitHub Metrics -->
+<img src="https://metrics.lecoq.io/XMURCSVision?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" width="49%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XMURCSVision&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%">
 
 <!-- Language Distribution -->
-<img src="https://github-readme-stats-two-eta-40.vercel.app/api/top-langs/?username=XMURCSVision&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%">
+<img src="https://metrics.lecoq.io/XMURCSVision?template=classic&base=&config.timezone=Asia%2FShanghai&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14" alt="Top Languages" width="49%">
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XMURCSVision&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" width="98%">
