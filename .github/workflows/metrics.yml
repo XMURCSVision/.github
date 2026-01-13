@@ -17,14 +17,10 @@ jobs:
           template: classic
           config_timezone: Asia/Shanghai
           filename: profile/stats.svg
-          
-          plugin_lines: yes
-          
+                    
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines, bytes-size
-          plugin_languages_indepth: yes
-          commits_authoring: *
+          plugin_languages_details: percentage, bytes-size
           
           plugin_streak: yes
           plugin_streak_days: true 
